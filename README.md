@@ -1,3 +1,15 @@
+
+# Meet the ProspHER team
+### Kelly Harr (Project Manager)
+### Chrissy Lowe (Design/UX)
+I’m Chrissy, a UX Designer & Marketer based in Paris, France.
+### Roshmi Bhaumik (Business Analyst)
+### Jade Kneen (Software Developer)
+Hi, my name is Jade. I'm a Software Developer based in Manchester, UK. Check out my blog [here](http://www.jadekneen.dev)
+### Gabi Cortes (Software Developer)
+I’m Gabi, a junior Front End Developer based in Edinburgh, UK. Check out my portfolio at (gabicortes.com)
+### Michelle DHoodge (QA/Design)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
