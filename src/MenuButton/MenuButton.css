@@ -4,6 +4,11 @@
   justify-content: space-around;
   color: #7946dd;
   padding: 10px;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  padding-left: 0;
+  border-top: 1px solid #7946dd;
 }
 
 .buttonIconMenuBottom {
