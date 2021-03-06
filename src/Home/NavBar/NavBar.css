@@ -1,0 +1,23 @@
+.navBarWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.logoHerTechConnectImg {
+  height: 70px;
+  width: auto;
+  margin-left: 40px;
+}
+
+.buttonsNavBar {
+  display: flex;
+  flex-direction: row;
+  margin-right: 40px;
+}
+
+.buttonIndividualNavBar {
+  margin: 0 20px;
+}
