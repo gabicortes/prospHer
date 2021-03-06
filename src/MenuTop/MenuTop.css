@@ -1,0 +1,26 @@
+.menuTopWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 40px;
+  padding-bottom: 5px;
+}
+
+.iconChatBubble {
+  color: #7946dd;
+  height: 33px;
+  width: auto;
+}
+
+.inputMenuTop {
+  border-radius: 20px;
+  width: 70%;
+  padding: 10px;
+  background-color: #e5e9f2;
+  border: #7946dd;
+}
+
+hr {
+  width: 90%;
+}
