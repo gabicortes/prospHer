@@ -1,14 +1,22 @@
 
+# HerTechConnect
+The HerTechConnect app came out of our shared experience as women who have changed careers and moved into the tech industry. It provides valuable support for women who are both new and experienced in a male-dominated industry through mentorship and peer-to-peer support. Alongside this the app provides training content which allows the users to learn technology skills which will make them valuable employees.
+
+We have built this app React JS, Bootstrap and Node.
+
 # Meet the ProspHER team
 ### Kelly Harr (Project Manager)
+Hi, my name is Kelly.  I am a Software Developer based in Boulder, CO.  [https://www.linkedin.com/in/kharr/](https://www.linkedin.com/in/kharr/)
 ### Chrissy Lowe (Design/UX)
 I’m Chrissy, a UX Designer & Marketer based in Paris, France.
 ### Roshmi Bhaumik (Business Analyst)
+I am Roshmi. I am a Software Developer based in Colorado, USA. [https://www.linkedin.com/in/roshmibhaumik/](https://www.linkedin.com/in/roshmibhaumik/)
 ### Jade Kneen (Software Developer)
 Hi, my name is Jade. I'm a Software Developer based in Manchester, UK. Check out my blog [here](http://www.jadekneen.dev)
 ### Gabi Cortes (Software Developer)
-I’m Gabi, a junior Front End Developer based in Edinburgh, UK. Check out my portfolio at (gabicortes.com)
-### Michelle DHoodge (QA/Design)
+I’m Gabi, a junior Front End Developer based in Edinburgh, UK. Check out my portfolio at [gabicortes.com](https://www.gabicortes.com)
+### Michelle D'Hoodge (QA/Design)
+Hi, my name is Michelle.  I work as a Linux Systems Administrator  in Livermore, CA.  [https://www.linkedin.com/in/michelle-d-hooge-b391612/](https://www.linkedin.com/in/michelle-d-hooge-b391612/)
 
 # Getting Started with Create React App
 
