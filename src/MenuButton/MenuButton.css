@@ -1,0 +1,12 @@
+.menuButtonWrapperBottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #7946dd;
+  padding: 10px;
+}
+
+.buttonIconMenuBottom {
+  height: 30px;
+  width: auto;
+}
