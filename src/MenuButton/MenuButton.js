@@ -7,12 +7,15 @@ import { AiOutlineBell } from "react-icons/ai";
 
 export function MenuButton() {
   return (
+    
     <div className="menuButtonWrapperBottom">
+      <div className="fixed-row-bottom">
       <IoIosHome className="buttonIconMenuBottom" />
       <IoStarSharp className="buttonIconMenuBottom" />
       <BsPlusCircle className="buttonIconMenuBottom" />
       <AiOutlineBell className="buttonIconMenuBottom" />
       <IoMdPerson className="buttonIconMenuBottom" />
+    </div>
     </div>
   );
 }
