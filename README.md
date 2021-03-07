@@ -8,7 +8,7 @@ We have built this app React JS, Bootstrap and Node.
 ### Kelly Harr (Project Manager)
 Hi, my name is Kelly.  I am a Software Developer based in Boulder, CO.  [https://www.linkedin.com/in/kharr/](https://www.linkedin.com/in/kharr/)
 ### Chrissy Lowe (Design/UX)
-I’m Chrissy, a UX Designer & Marketer based in Paris, France.
+I’m Chrissy, a UX Designer & Marketer based in Paris, France. [https://www.linkedin.com/in/chrissylowe/](https://www.linkedin.com/in/chrissylowe/)
 ### Roshmi Bhaumik (Business Analyst)
 I am Roshmi. I am a Software Developer based in Colorado, USA. [https://www.linkedin.com/in/roshmibhaumik/](https://www.linkedin.com/in/roshmibhaumik/)
 ### Jade Kneen (Software Developer)
