@@ -20,19 +20,19 @@ export function Chat() {
       </Link>
       <DummyMessageList
         classNameSenderId="Sophie"
-        className="firstChat"
+        className="firstPersonChat"
         senderId="Sophie"
         messageText="Hi my name is Sophie, I would love to connect with other developers"
       />
       <DummyMessageList
         classNameSenderId="Anabelle"
-        className="secondChat"
+        className="secondPersonChat"
         senderId="Annabelle"
         messageText="Hey Sophie, my name is Annabelle! Nice to meet you"
       />
       <DummyMessageList
         classNameSenderId="Sophie"
-        className="firstChat"
+        className="firstPersonChat"
         senderId="Sophie"
         messageText="Nice to meet you too Annabelle, I hope you don't mind. I found your profile on Cindy's course"
       />

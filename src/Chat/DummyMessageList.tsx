@@ -14,9 +14,11 @@ const DummyMessageList: React.FC<DummyMessageListProps> = ({
   classNameSenderId,
 }) => {
   return (
+    <div className="MessagePadding">
     <div className={className}>
       <p className={classNameSenderId}>{senderId}</p>
       <p>{messageText}</p>
+    </div>
     </div>
   );
 };
