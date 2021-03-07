@@ -1,0 +1,36 @@
+.inputNewMessage {
+  margin: 0 5%;
+  width: 90%;
+  margin-top: 100px;
+}
+
+.firstChat,
+.secondChat {
+  border-radius: 20px;
+  padding: 5px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.firstChat {
+  background-color: #8593a6;
+  color: white;
+  margin-left: 30%;
+}
+
+.secondChat {
+  background-color: #e5e9f2;
+  margin-right: 30%;
+}
+
+.Anabelle,
+.Sophie {
+  font-size: 11px;
+}
+
+.cameraIcon {
+  height: 30px;
+  margin: 3px 6px;
+  width: auto;
+  color: grey;
+}
