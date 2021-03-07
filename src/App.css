@@ -25,6 +25,11 @@
   color: white;
 }
 
+.fixed-row-bottom {
+  position:fixed !important;
+  bottom:0 !important;
+}
+
 .App-link {
   color: #61dafb;
 }
