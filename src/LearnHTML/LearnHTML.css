@@ -1,0 +1,57 @@
+.titleAndFav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 25px;
+  align-items: center;
+}
+
+.arrowBack {
+  display: flex;
+  color: #7946dd;
+  font-size: 35px;
+  padding-left: 10px;
+  margin-top: 25px;
+}
+
+.starIcon {
+  color: #7946dd;
+  height: 35px;
+  width: auto;
+}
+
+.titleLearning {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.wrapperLearningPath {
+  display: flex;
+  flex-direction: column;
+  margin: 0 5%;
+}
+
+.learningPath {
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.stepsLearningList {
+  padding-top: 20px;
+  text-align: left;
+}
+
+.titleStep {
+  font-size: 26px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.subtitleStep {
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+.stepTwoWrapper {
+  margin: 35px 0 30px;
+}

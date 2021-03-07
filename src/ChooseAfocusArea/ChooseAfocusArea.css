@@ -1,0 +1,45 @@
+.focusAreaWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.focusAreaTitle,
+.focusAreaSubTitle,
+.areasTechList,
+.levelTechList {
+  margin-bottom: 25px;
+}
+
+.focusAreaTitle {
+  color: #7946dd;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+.focusAreaSubTitle {
+  font-size: 14px;
+}
+
+.areasTechList,
+.levelTechList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.saveButton {
+  width: 190px;
+}
+
+.areaTech,
+.levelTech {
+  padding: 6px 0;
+}
+
+.techSelected {
+  color: #7946dd;
+  font-weight: 700;
+}

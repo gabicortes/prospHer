@@ -1,21 +1,24 @@
-import React from "react"
+import React from "react";
 
 interface DummyMessageListProps {
-    senderId: string;
-    messageText: string;
+  senderId: string;
+  messageText: string;
+  className: string;
+  classNameSenderId: string;
 }
 
 const DummyMessageList: React.FC<DummyMessageListProps> = ({
-    senderId,
-    messageText,
+  senderId,
+  messageText,
+  className,
+  classNameSenderId,
 }) => {
-    return (
-        <div>
-            <p>{senderId}</p>
-            <p>{messageText}</p>
-        </div>
-    );
+  return (
+    <div className={className}>
+      <p className={classNameSenderId}>{senderId}</p>
+      <p>{messageText}</p>
+    </div>
+  );
 };
-
 
 export default DummyMessageList;

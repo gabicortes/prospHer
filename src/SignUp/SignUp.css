@@ -1,0 +1,43 @@
+.SignUpWrapperLogin {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.signUpTitle,
+.inputLogin,
+.buttonSubmitNewUser {
+  margin: 13px 0;
+}
+
+.inputLogin {
+  padding: 4px;
+  width: 70%;
+  padding: 8px;
+  color: #cdd2db;
+}
+
+.buttonPurple {
+  background-color: #7946dd;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0px 1px 1px #888888;
+  margin-bottom: 20px;
+}
+
+.linkSignUp {
+  color: black;
+}
+
+.signUpTitle {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.textBehindInputLogin {
+  font-size: 9px;
+  margin: 3px;
+}

@@ -1,0 +1,37 @@
+.learningPathWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageHTML {
+  height: 200px;
+  width: auto;
+}
+
+.titleRecommendedLearningPaths {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 30px;
+}
+
+.titleLearnHTML {
+  text-align: left;
+  padding: 15px 0;
+  font-size: 25px;
+}
+
+.textBehindImg {
+  text-align: left;
+  width: 85%;
+}
+
+.subtitleLearnHTML {
+  padding-bottom: 25px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.textLearnHTML {
+  padding-bottom: 20px;
+}
